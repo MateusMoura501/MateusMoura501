@@ -35,8 +35,8 @@
 
 <h3 align="left">🔗 Entre em contato comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mateus-moura/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kizzyterra" height="30" width="40" /></a>
-<a href="https://instagram.com/kizzy_terra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kizzy_terra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mateus-moura/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusmoura501" height="30" width="40" /></a>
+<a href="https://instagram.com/mateusmourasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kizzy_terra" height="30" width="40" /></a>
 <a href="https://medium.com/@kizzyterra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kizzyterra" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/programacaodinamica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/programacaodinamica" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kizzyterra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kizzyterra" height="30" width="40" /></a>
